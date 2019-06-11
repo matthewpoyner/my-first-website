@@ -9,6 +9,6 @@ Technologies used in this project:
 HTML5
 CSS3
 
-Information relating to information on each subject has been sourced from Wikipedia, there site can be reached by following https://en.wikipedia.org/wiki/Main_Page
+Information relating to information on each subject has been sourced from Wikipedia, their site can be reached by following https://en.wikipedia.org/wiki/Main_Page
 
 Visit https://matthewpoyner.github.io/my-first-website/ to view the deployed website
